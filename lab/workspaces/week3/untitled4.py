@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 13 14:38:40 2019
 
-@author: Melis GULER
-"""
 my_list_1=[2,4,3,40,5,6,3,3,2,1]
 def my_fun_1(my_list_1=[2,4,3,40,5,6,3,3,2,1]):
     t=0

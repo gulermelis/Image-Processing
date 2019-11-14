@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 13 17:12:57 2019
 
-@author: Melis GULER
-"""
 
 get_ipython().run_line_magic('matplotlib', 'inline')
 import numpy as np

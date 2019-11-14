@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 13 17:15:06 2019
 
-@author: Melis GULER
-"""
 
 # morfoloji olarak adlandırılan filter.
 # daha once fonksiyon x degeri alıyordu, simdi sadece x degil komsularınıda alacak.

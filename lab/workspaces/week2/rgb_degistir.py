@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 13 12:54:51 2019
 
-@author: Melis GULER
-"""
 import os
 print(os.getcwd())   #dizini bul
 print(os.listdir()) 
